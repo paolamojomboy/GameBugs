@@ -1,0 +1,2 @@
+# GameBugs
+Juego para descubrir
